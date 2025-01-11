@@ -62,9 +62,13 @@ We welcome contributions to make this repository a valuable resource for everyon
 3. Contribute by conducting research, answering questions, or adding new tools and insights.
 
 ## **License**
-This repository is licensed under the [MIT License](LICENSE), allowing free use, modification, and distribution. We encourage collaboration and sharing within the AI community.
+This repository is licensed under the Apache 2.0 License, ensuring proper credit is attributed while fostering collaboration and innovation. We encourage collaboration and sharing within the AI community.
 
 ## **Contact**
-For questions, feedback, or collaboration inquiries, please reach out via GitHub Issues or email [your-email@example.com].
+For questions, feedback, or collaboration inquiries, feel free to connect with me on:
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **X (Twitter)**: [@YourTwitterHandle](https://twitter.com/your-handle)
+
+Alternatively, you can reach out via GitHub Issues for repository-specific discussions.
 
 Let’s build an AI knowledge hub together!
